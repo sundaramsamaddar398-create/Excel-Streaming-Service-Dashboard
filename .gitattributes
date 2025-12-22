@@ -1,8 +1,0 @@
-*.xlsx linguist-language=Excel
-*.xlsx linguist-detectable=true
-
-*.xls linguist-language=Excel
-*.xls linguist-detectable=true
-
-*.csv linguist-language=CSV
-*.csv linguist-detectable=true
