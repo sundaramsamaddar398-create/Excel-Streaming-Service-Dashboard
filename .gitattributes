@@ -1,2 +1,2 @@
-*.xlsx linguist-language=Excel
-*.xlsx linguist-detectable=true
+"Cleaned_data"/*.xlsx linguist-language=Excel
+"Cleaned_data"/*.xlsx linguist-detectable=true
